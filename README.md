@@ -17,7 +17,7 @@ This applications is an personal finance manager.
 <br/>
 <br/>
 <div align="center" id="top"> 
-  <img src="./src/assets/screen1.png" alt="02 Dtmoney" />
+  <img src="./src/assets/screen1.png" alt="01 Dtmoney" />
 </div>
 
 ## Features
@@ -45,7 +45,7 @@ Before starting 🏁, you need to have [Git](https://git-scm.com) and [Node](htt
 
 ```bash
 # Clone this project
-$ git clone https://github.com/davi1985/dtmoney
+$ git clone https://github.com/pedrohconrado/dtmoney
 
 # Access
 $ cd dtmoney
@@ -59,12 +59,3 @@ $ yarn start
 # The server will initialize in the <http://localhost:3000>
 ```
 
-## License
-
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
-
-Made with 💜 by <a href="https://github.com/davi1985" target="_blank">Davi Silva</a>
-
-&#xa0;
-
-<a href="#top">Back to top</a>
